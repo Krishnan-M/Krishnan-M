@@ -12,27 +12,20 @@
   <img src="https://raw.githubusercontent.com/Kpriyansh/Kpriyansh/main/code.gif" width="300"/>&nbsp&nbsp
   <a href="https://www.animatedimages.org/cat-hurdling-1852.htm"><img src="https://www.animatedimages.org/data/media/1852/animated-hurdling-image-0024.gif" border="0" alt="animated-hurdling-image-0024" width="200"/></a>&nbsp&nbsp
 </div>
-
-
-# 💫 About Me:
-🔭 I’m currently working on Range Extended Electric Vehicle<br>🌱 I’m currently learning Java<br>💬 Ask me about C C++ Python<br>📫 How to reach me ajaykrish400@gmail.com<br>
-
-
-## 🌐 Socials:
-<div align="left">
-  <a href="https://www.instagram.com/_ajaykrishnan_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+&nbsp
+  <div align="center">
   </a>
-  <a href="ajaykrish400@gmail.com" target="_blank">
+  <a href="[ajaykrish400@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWtDqNrTVqbRNSNZtZNkjRgqmRSvSWtVmDDzSfPRcDvJbqTdCBNznMlXhWDTrjgxTCWQmnqHV)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/krishnan-murugan-b29381200/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="8526702319" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+  &nbsp
 </div>
+
+# 💫 About Me:
+🔭 I’m currently working on Range Extended Electric Vehicle<br>🌱 I’m currently learning Java<br>💬 Ask me about C C++ Python<br>📫 How to reach me ajaykrish400@gmail.com<br>
 
 # 💻 Tech Stack:
 <div align="left">
